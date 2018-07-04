@@ -3,7 +3,7 @@
 > 一个基于约钓和钓场发布的项目
 
 ## 预览
-![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png)
+<img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/>![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png)
 ![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/1.png)
 ![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/2.png)
 ![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/3.png)
