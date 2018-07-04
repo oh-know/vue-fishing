@@ -3,7 +3,7 @@
 > 一个基于约钓和钓场发布的项目
 
 ## 预览
-! [在线预览] (https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png);
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png);
 ## Build Setup
 
 ``` bash
