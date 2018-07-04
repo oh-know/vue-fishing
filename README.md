@@ -12,6 +12,7 @@
 <div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/6.png"/></div>
 <div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/7.png"/></div>
 <div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/8.png"/></div>
+
 ## Build Setup
 
 ``` bash
