@@ -3,15 +3,15 @@
 > 一个基于约钓和钓场发布的项目
 
 ## 预览
-<img width="300" height="300" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/1.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/2.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/3.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/4.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/5.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/6.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/7.png"/>
-<img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/8.png"/>
+<div align=center><img width="300" height="300" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/1.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/2.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/3.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/4.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/5.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/6.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/7.png"/></div>
+<div align=center><img width="400" src="https://github.com/oh-know/vue-yulejia/blob/master/preview/8.png"/></div>
 ## Build Setup
 
 ``` bash
