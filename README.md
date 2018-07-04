@@ -4,6 +4,14 @@
 
 ## 预览
 ![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/qrcode.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/1.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/2.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/3.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/4.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/5.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/6.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/7.png)
+![在线预览](https://github.com/oh-know/vue-yulejia/blob/master/preview/8.png)
 ## Build Setup
 
 ``` bash
